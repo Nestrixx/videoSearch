@@ -1,0 +1,16 @@
+{
+    "name": "videosearch",
+    "version": "1.0.0",
+    "description": "searches for mp4 video types",
+    "main": "index.ts",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1",
+        "start": "npx ts-node index.ts"
+    },
+    "author": "me",
+    "license": "ISC",
+    "dependencies": {
+        "ts-node": "^10.7.0",
+        "typescript": "^4.6.4"
+    }
+}
